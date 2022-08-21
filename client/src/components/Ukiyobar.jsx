@@ -58,7 +58,7 @@ const TopicSelection = ({ selection }) => (
 
 const ChannelBlock = () => (
   <div className='channel-block'>
-    <h5 className='channel-block-text'>Channels</h5>
+    <h5 className='channel-block-text'>Ukiyos</h5>
   </div>
 );
 
